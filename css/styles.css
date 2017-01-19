@@ -1,0 +1,15 @@
+
+
+.column {
+  width: 300px;
+  float: left;
+}
+.column h3 {
+  font-style: italic;
+}
+
+img {
+  right-margin: 20px;
+  border: 3px solid red;
+
+}
